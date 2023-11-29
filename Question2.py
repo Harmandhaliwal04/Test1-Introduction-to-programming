@@ -2,13 +2,13 @@ Color1=input("Enter the Color1")
 Color2=input("Enter the color2")
 
 
-if(Color1=="red",Color1=="yellow",Color1=="blue") :
+if(Color1=="red"or Color1=="yellow"or  Color1=="blue") :
     print()
 else:
     print("Invalid color")
 
 
-if(Color2=="red",Color2=="yellow",Color2=="blue") :
+if(Color2=="red" or Color2=="yellow" or Color2=="blue") :
     print()
 else:
     print("Invalid color")
@@ -33,3 +33,5 @@ elif(Color1=="yellow") :
     if(Color2=="yellow"):
         print("Green")        
 
+if("color1=color1"):
+    print("Invalid color")
