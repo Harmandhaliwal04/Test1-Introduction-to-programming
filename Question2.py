@@ -33,5 +33,3 @@ elif(Color1=="yellow") :
     if(Color2=="yellow"):
         print("Green")        
 
-if("color1=color1"):
-    print("Invalid color")
